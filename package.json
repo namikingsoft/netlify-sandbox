@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.html",
   "scripts": {
-    "deploy": "netlify deploy -s netlify-sandbox-namikingsoft -p dist",
+    "deploy": "netlify deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
